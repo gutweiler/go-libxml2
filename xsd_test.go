@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/lestrrat/go-libxml2"
-	"github.com/lestrrat/go-libxml2/xsd"
+	"github.com/gutweiler/go-libxml2/xsd"
 	"github.com/stretchr/testify/assert"
 )
 

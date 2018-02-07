@@ -68,9 +68,9 @@ import (
   "net/http"
 
   "github.com/lestrrat/go-libxml2"
-  "github.com/lestrrat/go-libxml2/parser"
-  "github.com/lestrrat/go-libxml2/types"
-  "github.com/lestrrat/go-libxml2/xpath"
+  "github.com/gutweiler/go-libxml2/parser"
+  "github.com/gutweiler/go-libxml2/types"
+  "github.com/gutweiler/go-libxml2/xpath"
 )
 
 func ExampleXML() {
@@ -149,7 +149,7 @@ import (
   "path/filepath"
 
   "github.com/lestrrat/go-libxml2"
-  "github.com/lestrrat/go-libxml2/xsd"
+  "github.com/gutweiler/go-libxml2/xsd"
 )
 
 func ExampleXSD() {

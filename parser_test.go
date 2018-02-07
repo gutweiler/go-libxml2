@@ -4,11 +4,11 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/lestrrat/go-libxml2/dom"
-	"github.com/lestrrat/go-libxml2/types"
+	"github.com/gutweiler/go-libxml2/dom"
+	"github.com/gutweiler/go-libxml2/types"
 
-	"github.com/lestrrat/go-libxml2/clib"
-	"github.com/lestrrat/go-libxml2/parser"
+	"github.com/gutweiler/go-libxml2/clib"
+	"github.com/gutweiler/go-libxml2/parser"
 	"github.com/stretchr/testify/assert"
 )
 
