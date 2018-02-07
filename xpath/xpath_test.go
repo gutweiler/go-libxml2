@@ -3,7 +3,7 @@ package xpath_test
 import (
 	"testing"
 
-	"github.com/lestrrat/go-libxml2"
+	"github.com/gutweiler/go-libxml2"
 	"github.com/gutweiler/go-libxml2/xpath"
 	"github.com/stretchr/testify/assert"
 )

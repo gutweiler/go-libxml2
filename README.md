@@ -67,7 +67,7 @@ import (
   "log"
   "net/http"
 
-  "github.com/lestrrat/go-libxml2"
+  "github.com/gutweiler/go-libxml2"
   "github.com/gutweiler/go-libxml2/parser"
   "github.com/gutweiler/go-libxml2/types"
   "github.com/gutweiler/go-libxml2/xpath"
@@ -148,7 +148,7 @@ import (
   "os"
   "path/filepath"
 
-  "github.com/lestrrat/go-libxml2"
+  "github.com/gutweiler/go-libxml2"
   "github.com/gutweiler/go-libxml2/xsd"
 )
 

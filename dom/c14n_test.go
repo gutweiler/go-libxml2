@@ -3,7 +3,7 @@ package dom_test
 import (
 	"testing"
 
-	"github.com/lestrrat/go-libxml2"
+	"github.com/gutweiler/go-libxml2"
 	"github.com/gutweiler/go-libxml2/dom"
 	"github.com/stretchr/testify/assert"
 )
